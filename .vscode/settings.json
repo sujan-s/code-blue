@@ -1,0 +1,6 @@
+{
+    "alignment.surroundSpace" : {
+        "colon"   : [1, 1],
+        "comment" : 2
+    }
+}

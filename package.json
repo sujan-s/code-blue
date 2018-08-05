@@ -1,0 +1,27 @@
+{
+    "name"        : "code-blue",
+    "displayName" : "Code Blue",
+    "description" : "A carefully concocted dark theme made of subtle blues and bright hues that’s easy on the eyes for focused coding.",
+    "version"     : "0.9.5",
+    "publisher"   : "Sujan",
+    "icon"        : "icon.png",
+    "repository": {
+        "url": "https://github.com/sujan-s/code-blue",
+        "type": "git"
+    },
+    "engines"     : {
+        "vscode" : "^1.25.0"
+    },
+    "categories" : [
+        "Themes"
+    ],
+    "contributes" : {
+        "themes" : [
+            {
+                "label"   : "Code Blue",
+                "uiTheme" : "vs-dark",
+                "path"    : "./themes/code-blue-theme.json"
+            }
+        ]
+    }
+}
