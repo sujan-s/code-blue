@@ -1,27 +1,32 @@
 {
-    "name"        : "code-blue",
-    "displayName" : "Code Blue",
-    "description" : "A carefully concocted dark theme made of subtle blues and bright hues that’s easy on the eyes for focused coding.",
-    "version"     : "0.9.5",
-    "publisher"   : "Sujan",
-    "icon"        : "icon.png",
+    "name": "code-blue",
+    "displayName": "Code Blue",
+    "description": "A carefully concocted dark theme made of subtle blues and bright hues that’s easy on the eyes for focused coding.",
+    "version": "0.9.6",
+    "publisher": "Sujan",
+    "icon": "icon.png",
     "repository": {
         "url": "https://github.com/sujan-s/code-blue",
         "type": "git"
     },
-    "engines"     : {
-        "vscode" : "^1.25.0"
+    "engines": {
+        "vscode": "^1.25.0"
     },
-    "categories" : [
+    "categories": [
         "Themes"
     ],
-    "contributes" : {
-        "themes" : [
+    "contributes": {
+        "themes": [
             {
-                "label"   : "Code Blue",
-                "uiTheme" : "vs-dark",
-                "path"    : "./themes/code-blue-theme.json"
+                "label": "Code Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/code-blue-theme.json"
             }
         ]
+    },
+    "__metadata": {
+        "id": "e040918e-a5fa-407c-b0af-607287357259",
+        "publisherId": "041b1def-4453-4172-b411-58212725728e",
+        "publisherDisplayName": "Sujan"
     }
 }
