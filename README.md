@@ -3,6 +3,15 @@
 
 ![Main](https://i.imgur.com/JLCnwvi.jpg)
 
+#### Installation
+1. Hit CTRL + P
+2. Paste code below
+3. Hit Enter
+
+```
+ext install Sujan.code-blue
+```
+
 <img src="https://i.imgur.com/Li3Aa1Y.png" alt="HTML" width="667px"/>
 <img src="https://i.imgur.com/YVWPJy5.png" alt="JS" width="667px"/>
 <img src="https://i.imgur.com/fashrtw.png" alt="SCSS" width="667px"/>
