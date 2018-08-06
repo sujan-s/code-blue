@@ -4,13 +4,9 @@
 ![Main](https://i.imgur.com/JLCnwvi.jpg)
 
 #### Installation
-1. Hit CTRL + P
-2. Paste code below
+1. Hit Cmd+P(Mac), or Ctrl + P(Windows) to open the Command panel.
+2. Paste this— `ext install Sujan.code-blue`
 3. Hit Enter
-
-```
-ext install Sujan.code-blue
-```
 
 <img src="https://i.imgur.com/Li3Aa1Y.png" alt="HTML" width="667px"/>
 <img src="https://i.imgur.com/YVWPJy5.png" alt="JS" width="667px"/>
