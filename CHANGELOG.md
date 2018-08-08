@@ -14,3 +14,7 @@ All notable changes to the "Code Blue" extension will be documented in this file
 * Fixes #5 — Tweaked theme colours for UI input fields
 * Brightened up colour contrast for comments
 * Tweaked HTML tag colours
+
+### August 8 — 0.9.8
+* Added theme colours to Notification Center
+* Tweaked README

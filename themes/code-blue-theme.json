@@ -132,6 +132,15 @@
 
         "widget.shadow" : "#00000080",
 
+        "notificationCenter.border"           : "#1482ff",
+        "notificationCenterHeader.foreground" : "#fff",
+        "notificationCenterHeader.background" : "#364161E6",
+        "notificationToast.border"            : "#364161E6",
+        "notifications.foreground"            : "#fff",
+        "notifications.background"            : "#364161E6",
+        "notifications.border"                : "#1482ff",
+        "notificationLink.foreground"         : "#1482ff",
+
         "statusBar.background"           : "#242b40",
         "statusBar.foreground"           : "#e2e6e980",
         "statusBarItem.hoverBackground"  : "#5b6ca2cc",
