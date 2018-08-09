@@ -1,5 +1,5 @@
 # Code Blue for VSCode
-## Current version 0.9.9
+## Current version 0.9.10
 ### A carefully concocted dark theme made of subtle blues and bright hues that’s easy on the eyes for focused coding. 
 
 #### Installation

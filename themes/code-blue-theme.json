@@ -171,6 +171,13 @@
             }
         },
         {
+            "name": "HTML Text",
+            "scope": "text.html.basic",
+            "settings": {
+                "foreground": "#e2e6e9"
+            }
+        },
+        {
             "name": "HTML tags",
             "scope": "punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, meta.tag.block.any.html",
             "settings": {
@@ -198,6 +205,13 @@
             "scope": "punctuation.separator.list.comma.css",
             "settings": {
                 "foreground": "#b9c0ca"
+            }
+        },
+        {
+            "name": "Markdown basic",
+            "scope": "meta.paragraph.markdown, text.html.markdown",
+            "settings": {
+                "foreground": "#e2e6e9"
             }
         },
         {
@@ -402,9 +416,9 @@
         },
         {
             "name": "java modifier.import",
-            "scope":"punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,storage.type.generic.java,meta.method.body.java",
+            "scope":"punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,storage.type.generic.java,meta.method.body.java",
             "settings": {
-                "foreground": "#ed4849"
+                "foreground": "#fff"
             }
         },
         {

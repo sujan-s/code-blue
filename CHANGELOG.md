@@ -21,3 +21,6 @@ All notable changes to the "Code Blue" extension will be documented in this file
 
 #### 0.9.9 / 9 Aug, 2018
 * Tweaked Java syntax colours
+
+#### 0.9.10 / 9 Aug, 2018
+* Fixes #7 — A markdown para colour bug
