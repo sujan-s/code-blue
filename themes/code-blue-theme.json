@@ -89,6 +89,11 @@
         "tab.hoverBorder"            : "#2a324b",
         "tab.unfocusedHoverBorder"   : "#2a324b",
 
+        "breadcrumb.foreground"                : "#5b6ca2",
+        "breadcrumb.focusForeground"           : "#ffffff80",
+        "breadcrumb.activeSelectionForeground" : "#fff",
+        "breadcrumbPicker.background"          : "#242b40",
+
         "scrollbarSlider.background"       : "#5b6ca280",
         "scrollbarSlider.hoverBackground"  : "#5b6ca2cc",
         "scrollbarSlider.activeBackground" : "#5b6ca299",
@@ -151,7 +156,23 @@
         "statusBar.noFolderForeground"   : "#e2e6e9",
         "statusBar.noFolderBackground"   : "#242b40",
         "statusBar.noFolderBorder"       : "#242b40",
-        "statusBarItem.activeBackground" : "#5b6ca299"
+        "statusBarItem.activeBackground" : "#5b6ca299",
+
+        "settings.headerForeground"           : "#1482ff",
+        "settings.modifiedItemForeground"     : "#0ec05c",
+        "settings.inactiveSelectedItemBorder" : "#5b6ca299",
+        "settings.dropdownBackground"         : "#242b40",
+        "settings.dropdownForeground"         : "#fff",
+        "settings.dropdownBorder"             : "#242b40",
+        "settings.checkboxBackground"         : "#242b40",
+        "settings.checkboxForeground"         : "#f00",
+        "settings.checkboxBorder"             : "#242b40",
+        "settings.textInputBackground"        : "#242b40",
+        "settings.textInputForeground"        : "#fff",
+        "settings.textInputBorder"            : "#242b40",
+        "settings.numberInputBackground"      : "#242b40",
+        "settings.numberInputForeground"      : "#fff",
+        "settings.numberInputBorder"          : "#242b40"
     },
 
     "tokenColors": [

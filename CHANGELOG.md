@@ -24,3 +24,6 @@ All notable changes to the "Code Blue" extension will be documented in this file
 
 #### 0.9.10 / 9 Aug, 2018
 * Fixes #7 — A markdown para colour bug
+
+#### 0.9.11 / 14 Aug, 2018
+* Added new theme colours introduced in VSCode 1.26 — settings and breadcrumbs
