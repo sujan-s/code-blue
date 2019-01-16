@@ -172,7 +172,11 @@
         "settings.textInputBorder"            : "#242b40",
         "settings.numberInputBackground"      : "#242b40",
         "settings.numberInputForeground"      : "#fff",
-        "settings.numberInputBorder"          : "#242b40"
+        "settings.numberInputBorder"          : "#242b40",
+
+        "menu.background": "#242B40",
+        "dropdown.background":"#242B40"
+
     },
 
     "tokenColors": [
